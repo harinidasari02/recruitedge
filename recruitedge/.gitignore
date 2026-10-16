@@ -1,0 +1,9 @@
+target/
+node_modules/
+dist/
+build/
+.idea/
+.vscode/
+*.log
+.env
+backend/src/main/resources/application.properties
